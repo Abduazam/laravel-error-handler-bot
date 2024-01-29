@@ -1,0 +1,19 @@
+{
+    "name": "abduazam/error-handler-bot",
+    "description": "This package helps to handle error and send through telegram bot.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abduazam\\ErrorHandlerBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abduazam",
+            "email": "abduazamdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
